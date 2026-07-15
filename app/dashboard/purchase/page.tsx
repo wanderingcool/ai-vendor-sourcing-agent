@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 2.9 seconds
-Output:
 "use client";
 
 import Link from "next/link";
@@ -69,4 +66,3 @@ export default function PurchaseDashboard() {
 function Stat({ label, value }: { label: string; value: string }) {
   return <div className="stat"><div className="stat-label">{label}</div><div className="stat-value">{value}</div></div>;
 }
-
