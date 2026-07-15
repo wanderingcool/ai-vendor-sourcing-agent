@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 3.1 seconds
-Output:
 import Link from "next/link";
 
 export default function Home() {
@@ -41,4 +38,3 @@ export default function Home() {
     </main>
   );
 }
-
