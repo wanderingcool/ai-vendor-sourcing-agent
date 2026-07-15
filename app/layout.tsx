@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 3.1 seconds
-Output:
 import type { Metadata } from "next";
 import "./globals.css";
 
@@ -16,4 +13,3 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     </html>
   );
 }
-
