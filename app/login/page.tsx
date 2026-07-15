@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 3.2 seconds
-Output:
 import Link from "next/link";
 
 const roles = [
@@ -26,4 +23,3 @@ export default function Login() {
     </main>
   );
 }
-
