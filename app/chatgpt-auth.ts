@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 3.1 seconds
-Output:
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 
@@ -87,4 +84,3 @@ function safeDecodeURIComponent(value: string): string | null {
     return null;
   }
 }
-
